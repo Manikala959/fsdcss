@@ -1,0 +1,19 @@
+#abc{
+	font-size: 50px;
+	font-family: cursive;
+	color: deeppink;
+}
+p{
+	color: red;
+	font-size: 30px;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color:blue ;
+}
+*{
+	font-size: 40px;
+	font-family: cursive;
+	color: green;
+}
